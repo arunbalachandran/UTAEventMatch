@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTAEventMatch</string>
+    
+    <string-array name="hobbies">
+        <item>Swimming</item>
+        <item>Cycling</item>
+        <item>Badminton</item>
+    </string-array>
+</resources>
